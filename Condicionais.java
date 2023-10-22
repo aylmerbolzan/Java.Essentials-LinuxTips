@@ -15,7 +15,7 @@ public class Condicionais {
 
 
         // Switch Case
-        String nomeDoMes = "fevereiro";
+        String nomeDoMes = "5";
 
         switch (nomeDoMes){
 
@@ -24,6 +24,7 @@ public class Condicionais {
                   break;
             case "2":
                   System.out.println("Fevereiro");
+                  break;
             case "3":
                   System.out.println("Março");
                   break;
@@ -32,6 +33,7 @@ public class Condicionais {
                   break;
             case "5":
                   System.out.println("Maio");
+                  break;
             case "6":
                   System.out.println("Junho");
                   break;
