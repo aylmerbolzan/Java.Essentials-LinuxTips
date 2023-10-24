@@ -1,6 +1,7 @@
 package com.aylmerbolzan.a06programacaoorientadaaobjetosencapsulamentoeabstracao;
 
 public class Objetos {
+
     public static void main(String[] args) {
 
         Estudante aylmerBolzan = new Estudante();
@@ -10,6 +11,8 @@ public class Objetos {
 
         System.out.println(aylmerBolzan.getNome());
         System.out.println(aylmerBolzan.getStack());
+
+        aylmerBolzan.dormir();
     }
     
 }

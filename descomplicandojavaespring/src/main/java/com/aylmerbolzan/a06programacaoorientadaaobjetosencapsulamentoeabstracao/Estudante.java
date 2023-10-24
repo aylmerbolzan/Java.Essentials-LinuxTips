@@ -5,6 +5,7 @@ public class Estudante {
     private String nome;
     private String stack;
     
+    // Getters e Setters
     public String getNome() {
         return nome;
     }
@@ -18,4 +19,12 @@ public class Estudante {
         this.stack = stack;
     }    
     
+    public String estudar(){
+        return "Estou estudando Java e Spring Boot";
+    }
+
+    public void dormir(){
+        System.out.println("É hora de dar tchau");
+    }
+
 }
