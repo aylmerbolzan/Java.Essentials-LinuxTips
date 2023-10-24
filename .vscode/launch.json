@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Pessoa",
+            "request": "launch",
+            "mainClass": "com.aylmerbolzan.a07programacaoorientadaaobjetosherancaepolimorfismo.heranca.Pessoa",
+            "projectName": "descomplicandojavaespring"
+        },
+        {
+            "type": "java",
             "name": "BankMain",
             "request": "launch",
             "mainClass": "com.aylmerbolzan.a06programacaoorientadaaobjetosencapsulamentoeabstracao.abstracao.BankMain",
