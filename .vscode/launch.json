@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BankMain",
+            "request": "launch",
+            "mainClass": "com.aylmerbolzan.a06programacaoorientadaaobjetosencapsulamentoeabstracao.abstracao.BankMain",
+            "projectName": "descomplicandojavaespring"
+        },
+        {
+            "type": "java",
             "name": "CachorroMain",
             "request": "launch",
             "mainClass": "com.aylmerbolzan.a06programacaoorientadaaobjetosencapsulamentoeabstracao.encapsulamento.CachorroMain",
