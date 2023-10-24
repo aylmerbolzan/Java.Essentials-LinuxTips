@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CachorroMain",
+            "request": "launch",
+            "mainClass": "com.aylmerbolzan.a06programacaoorientadaaobjetosencapsulamentoeabstracao.encapsulamento.CachorroMain",
+            "projectName": "descomplicandojavaespring"
+        },
+        {
+            "type": "java",
             "name": "Objetos",
             "request": "launch",
             "mainClass": "com.aylmerbolzan.a06programacaoorientadaaobjetosencapsulamentoeabstracao.Objetos",
