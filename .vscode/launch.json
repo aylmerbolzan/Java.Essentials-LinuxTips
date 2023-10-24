@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Objetos",
+            "request": "launch",
+            "mainClass": "com.aylmerbolzan.a06programacaoorientadaaobjetosencapsulamentoeabstracao.Objetos",
+            "projectName": "descomplicandojavaespring"
+        },
+        {
+            "type": "java",
+            "name": "Objetos",
+            "request": "launch",
+            "mainClass": "com.aylmerbolzan.teste.Objetos",
+            "projectName": "descomplicandojavaespring"
+        },
+        {
+            "type": "java",
+            "name": "Objetos",
+            "request": "launch",
+            "mainClass": "descomplicandojavaespring.src.main.java.com.aylmerbolzan.teste.Objetos",
+            "projectName": "Java.Essentials-LinuxTips_78f42d3d"
+        },
+        {
+            "type": "java",
+            "name": "Objetos",
+            "request": "launch",
+            "mainClass": "com.aylmerbolzan.a06programacaoorientadaaobjetosencapsulamentoeabstracao.Objetos",
+            "projectName": "Java.Essentials-LinuxTips_78f42d3d"
+        },
+        {
+            "type": "java",
+            "name": "Objetos",
+            "request": "launch",
+            "mainClass": "src.main.java.com.aylmerbolzan.a06programacaoorientadaaobjetosencapsulamentoeabstracao.Objetos",
+            "projectName": "Java.Essentials-LinuxTips_78f42d3d"
+        },
+        {
+            "type": "java",
+            "name": "Objetos",
+            "request": "launch",
+            "mainClass": "a06programacaoorientadaaobjetosencapsulamentoeabstracao.Objetos",
+            "projectName": "Java.Essentials-LinuxTips_78f42d3d"
+        },
+        {
+            "type": "java",
             "name": "Array",
             "request": "launch",
             "mainClass": "Array",

@@ -1,3 +1,5 @@
+package com.aylmerbolzan.a05arrays;
+
 import java.util.Arrays;
 import java.util.List;
 

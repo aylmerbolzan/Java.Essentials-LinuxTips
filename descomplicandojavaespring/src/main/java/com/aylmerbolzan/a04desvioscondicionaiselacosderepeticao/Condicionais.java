@@ -1,3 +1,5 @@
+package com.aylmerbolzan.a04desvioscondicionaiselacosderepeticao;
+
 public class Condicionais {
     public static void main (String[] args) {
 
