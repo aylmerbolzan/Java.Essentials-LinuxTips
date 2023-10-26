@@ -15,9 +15,9 @@ Curso gratuito de Java oferecido pela [Linux Tips](https://www.linuxtips.io/cour
 ```
 
 ## Instrutora
-```
+
 > Kamila estudo programação desde 2013, atualmente é líder técnica , especializada em Java com Spring, Microsserviços e AWS. Co-autora dos livros Jornada Java e Jornada Microsserviços, cria conteúdo no Instagram e Youtube Kamila Code e sou Microsoft MVP
-```
+
 
 
 ## Grade Curricular
