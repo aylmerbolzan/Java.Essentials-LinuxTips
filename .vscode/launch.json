@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.aylmerbolzan.a07programacaoorientadaaobjetosherancaepolimorfismo.polimorfismo.sobrescrita.Main",
+            "projectName": "descomplicandojavaespring"
+        },
+        {
+            "type": "java",
             "name": "Pessoa",
             "request": "launch",
             "mainClass": "com.aylmerbolzan.a07programacaoorientadaaobjetosherancaepolimorfismo.heranca.Pessoa",
